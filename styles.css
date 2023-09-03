@@ -1,0 +1,57 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para os títulos das seções */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #0073e6;
+}
+
+/* Estilos para as seções de conteúdo */
+.lugar {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para as imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Estilos para links */
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center;
+    background-color: #0073e6;
+    color: white;
+    padding: 10px;
+}
